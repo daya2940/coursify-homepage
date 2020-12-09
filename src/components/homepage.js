@@ -10,7 +10,6 @@ import task from "../asset/task.svg";
 import studentDoubt from "../asset/studentdoubt.svg";
 import education from "../asset/education.svg";
 import artboard1 from "../asset/artboard1.svg";
-import { FaGreaterThan } from "react-icons/fa";
 import "../components/homepage.css";
 import Carousels from "./carousel";
 import Subject from "./subject";
