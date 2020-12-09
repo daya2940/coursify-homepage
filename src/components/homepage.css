@@ -1,0 +1,18 @@
+.caption {
+    display: flex;
+    justify-content: center;
+}
+
+.subject {
+    margin: 0 auto;
+}
+
+.view-button {
+    display: flex;
+    justify-content: center;
+}
+
+.doubt-title {
+    font-size:3rem;
+    font-weight: 600;
+}
